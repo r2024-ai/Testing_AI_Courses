@@ -69,3 +69,9 @@ For example, instead of saying - Give short replies. reply in 2 lines
 ## Tool of the day
 
 ![alt text](image-22.png)
+
+## Refining a Testing Prompt
+
+Exercise #3 -  
+
+![alt text](image-23.png)
